@@ -9,6 +9,6 @@ venv
 */.DS_Store
 **/.DS_Store
 
-.ipynb.checkpoints
-*/.ipynb.checkpoints
-**/.ipynb.checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints
+**/.ipynb_checkpoints
